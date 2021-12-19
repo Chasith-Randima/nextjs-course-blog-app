@@ -7,16 +7,16 @@ function Hero() {
       <section className={classes.hero}>
         <div className={classes.image}>
           <Image
-            src="/images/site/max.png"
+            src="/images/site/Randima.jpg"
             alt="An Image shwoing Randima"
             width={300}
             height={300}
           />
         </div>
-        <h1>Hi, Im Max</h1>
+        <h1>Hi, Im Randima Silva</h1>
         <p>
-          I blog about web development - especially frontend frameworks like
-          Angular or React.
+          Iam a full stack developer.who has experienced in
+          React,NodeJs,MongoDB,ReactNative,C and Python programming languages
         </p>
       </section>
     </>
